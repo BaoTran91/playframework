@@ -1,0 +1,126 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8cecc15d-f9fd-40e5-b7a0-a697c3125d5b" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1QvBcfqJiypVaLpmc20fBiVCb0L" />
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/build.sbt" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="example.Main" />
+      <module name="play-scala-websocket-example" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="example.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="play-scala-websocket-example" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="hello-world [file:/Users/baotran/Desktop/test_sbt/hello-world/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="play-scala-websocket-example-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="3136728782000" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="974340537" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+    <option name="projectSyncType">
+      <map>
+        <entry key="$PROJECT_DIR$/../../CLUCTCH_Bao_starter" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Clutch" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Clutch_Bao" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../Clutch_Bao_Stock" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../akkahttp-quickstart-2.1-review-project" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../clutch_project" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play-samples-2.7.x/play-scala-websocket-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play-samples-play-java-websocket-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play-samples-play-scala-chatroom-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play-samples-play-scala-hello-world-tutorial" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play-samples-play-scala-rest-api-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play-samples-play-scala-starter-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play-scala-hello-world" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play-scala-websocket-example" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../play-socket.io-master" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../websocket-v1" value="PREVIEW" />
+        <entry key="$PROJECT_DIR$/../../ws-redis-pubsub-master" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8cecc15d-f9fd-40e5-b7a0-a697c3125d5b" name="Default Changelist" comment="" />
+      <created>1568641270183</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1568641270183</updated>
+    </task>
+    <servers />
+  </component>
+</project>
